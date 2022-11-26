@@ -6,7 +6,8 @@ now I am a student course 3
 
 ### languages with english and uzbek
 
-I use Html Css Scss Javascript texno <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpngGRjYX1ca7qAADU3K6eGLj7ShQE3L2otdzfryl_Y9Ht2QRoQKYQbsXd36XIxMbYOw0&usqp=CAU"  width="30"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1200px-CSS3_logo.svg.png" width="30"/>                                               <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" width="30"/>
-
+I use to work with Html <img src="https://brandslogos.com/wp-content/uploads/images/large/html-logo-black-and-white.png"  width="30"/> <img src="https://brandslogos.com/wp-content/uploads/images/large/html-logo-black-and-white.png"  width="30"/> <img src="https://brandslogos.com/wp-content/uploads/images/large/html-logo-black-and-white.png"  width="30"/> <img src="https://brandslogos.com/wp-content/uploads/images/large/html-logo-black-and-white.png"  width="30"/>
+I use to work with Css  <img src="https://brandslogos.com/wp-content/uploads/images/large/css-logo-black-and-white.png" width="30"/>   <img src="https://brandslogos.com/wp-content/uploads/images/large/css-logo-black-and-white.png" width="30"/>     <img src="https://brandslogos.com/wp-content/uploads/images/large/css-logo-black-and-white.png" width="30"/>   <img src="https://brandslogos.com/wp-content/uploads/images/large/css-logo-black-and-white.png" width="30"/>          
+I use to work with Css   <img src="https://t3.ftcdn.net/jpg/03/20/95/62/360_F_320956250_PR01lyL9c8EcOlMUb9PXSWyBJN3GirFx.jpg" width="30"/>  <img src="https://t3.ftcdn.net/jpg/03/20/95/62/360_F_320956250_PR01lyL9c8EcOlMUb9PXSWyBJN3GirFx.jpg" width="30"/>  <img src="https://t3.ftcdn.net/jpg/03/20/95/62/360_F_320956250_PR01lyL9c8EcOlMUb9PXSWyBJN3GirFx.jpg" width="30"/>  <img src="https://t3.ftcdn.net/jpg/03/20/95/62/360_F_320956250_PR01lyL9c8EcOlMUb9PXSWyBJN3GirFx.jpg" width="30"/>
+ 
 
