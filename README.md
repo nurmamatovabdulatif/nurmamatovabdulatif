@@ -15,6 +15,6 @@ I use to work with Css  <img src="https://brandslogos.com/wp-content/uploads/ima
 
 
 
-I use to work with Javascript   <img src="https://t3.ftcdn.net/jpg/03/20/95/62/360_F_320956250_PR01lyL9c8EcOlMUb9PXSWyBJN3GirFx.jpg" width="30"/>  <img src="https://t3.ftcdn.net/jpg/03/20/95/62/360_F_320956250_PR01lyL9c8EcOlMUb9PXSWyBJN3GirFx.jpg" width="30"/>  <img src="https://t3.ftcdn.net/jpg/03/20/95/62/360_F_320956250_PR01lyL9c8EcOlMUb9PXSWyBJN3GirFx.jpg" width="30"/>  <img src="https://t3.ftcdn.net/jpg/03/20/95/62/360_F_320956250_PR01lyL9c8EcOlMUb9PXSWyBJN3GirFx.jpg" width="30"/>
+I use to work with Javascript   <img src="https://www.iconsdb.com/icons/preview/black/js-xxl.png" width="30"/> <img src="https://www.iconsdb.com/icons/preview/black/js-xxl.png" width="30"/> <img src="https://www.iconsdb.com/icons/preview/black/js-xxl.png" width="30"/> <img src="https://www.iconsdb.com/icons/preview/black/js-xxl.png" width="30"/>
  
 
